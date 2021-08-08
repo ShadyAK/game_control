@@ -1,6 +1,7 @@
 # Game_Control
 
 Control your games using hand and voice.
+Made using YOLOV3 custom trained model and PocketSphinx for voice hot word detection.  
 
 0) Install requirements.txt
 1) Download model weight from :- https://drive.google.com/file/d/1MlCHdSqFipA58QkhOCdwSqDOOITTlbKk/view?usp=sharing and put it into "Model" folder. 
